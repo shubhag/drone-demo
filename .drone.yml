@@ -8,4 +8,6 @@ steps:
   image: golang
   commands:
   - ls
+  - sleep 10
+  - pwd
   - foo
